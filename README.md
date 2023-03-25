@@ -1,2 +1,9 @@
 # The-McKinsey-Life-Expectancy-Insights-
 The McKinsey Life Expectancy Insights project on GitHub is a data analysis and visualization project built using Python and Pandas. The project aims to analyze and explore the factors that contribute to life expectancy across different countries and regions of the world. 
+The project is based on a publicly available dataset called the Global Health Data Exchange (GHDx), which is maintained by the Institute for Health Metrics and Evaluation (IHME) at the University of Washington. The GHDx contains a wide range of health-related data, including data on life expectancy, causes of death, and risk factors for various diseases.
+
+The McKinsey Life Expectancy Insights project specifically focuses on life expectancy, which is a key measure of a population's health and well-being. The project uses a range of statistical techniques and machine learning algorithms to analyze the relationships between various factors and life expectancy. For example, the project explores the relationships between income, education, and access to healthcare, and how these factors impact life expectancy in different regions of the world.
+
+The project is significant because it provides valuable insights into the factors that contribute to life expectancy, which can help policymakers and healthcare professionals make informed decisions about public health policies and interventions. For example, the project suggests that improving access to healthcare and education can have a significant impact on life expectancy, especially in low- and middle-income countries.
+
+Overall, the McKinsey Life Expectancy Insights project is a valuable contribution to the field of public health and demonstrates the power of data analysis and visualization in informing public policy and improving health outcomes.
