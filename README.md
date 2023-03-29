@@ -18,25 +18,87 @@ REFERRED DATASET https://docs.google.com/spreadsheets/d/18wynlGFXT5-6GAjIK_W1_QW
 few questions
 
 What is the average life expectancy of people in different countries?
+
+
+
 How has life expectancy changed over time in different countries?
+
+
 Which countries have the highest life expectancy?
+
+
 What are the leading causes of death in different countries?
+
+
+
 How do lifestyle factors such as diet, exercise, and smoking affect life expectancy?
+
+
 What is the impact of environmental factors such as pollution on life expectancy?
+
+
 How does access to healthcare affect life expectancy?
+
+
+
 Are there differences in life expectancy based on gender?
+
+
 Are there differences in life expectancy based on income level?
+
+
+
 How does the quality of healthcare in different countries affect life expectancy?
+
+
+
 What is the impact of education on life expectancy?
+
+
+
 How does the prevalence of chronic diseases affect life expectancy?
+
+
+
 Are there regional differences in life expectancy within countries?
+
+
+
+
+
+
 How does the quality of living conditions affect life expectancy?
+
+
+
+
 How does access to clean water and sanitation affect life expectancy?
+
+
+
 What is the impact of infectious diseases on life expectancy?
+
+
+
+
 How does the quality of public health policies affect life expectancy?
+
+
+
+
 Are there differences in life expectancy based on race and ethnicity?
+
+
+
+
 How does the prevalence of mental health disorders affect life expectancy?
+
+
+
+
 What are the trends in life expectancy for different age groups?
+
+
 
 
 
