@@ -14,7 +14,29 @@ One of the strengths of the project is its interdisciplinary approach, which bri
 The McKinsey Life Expectancy Insights project has several potential applications in public health policy and practice. For example, the project's findings could inform the design of interventions aimed at improving access to healthcare and education in low- and middle-income countries. The project could also be used to monitor progress towards achieving the United Nations Sustainable Development Goals (SDGs), particularly SDG 3, which aims to ensure healthy lives and promote well-being for all at all ages.
 
 In conclusion, the McKinsey Life Expectancy Insights project is a valuable contribution to the field of public health. Its focus on life expectancy and the relationships between various factors and life expectancy has the potential to inform public health policy and improve health outcomes across the world. The project's interdisciplinary approach, use of open data and open-source software, and focus on visualization make it an innovative and valuable resource for anyone interested in understanding and addressing global health challenges.
+REFERRED DATASET https://docs.google.com/spreadsheets/d/18wynlGFXT5-6GAjIK_W1_QWYLcWdWrwX8J0zRueXcg8/edit#gid=264786256
+few questions
 
+What is the average life expectancy of people in different countries?
+How has life expectancy changed over time in different countries?
+Which countries have the highest life expectancy?
+What are the leading causes of death in different countries?
+How do lifestyle factors such as diet, exercise, and smoking affect life expectancy?
+What is the impact of environmental factors such as pollution on life expectancy?
+How does access to healthcare affect life expectancy?
+Are there differences in life expectancy based on gender?
+Are there differences in life expectancy based on income level?
+How does the quality of healthcare in different countries affect life expectancy?
+What is the impact of education on life expectancy?
+How does the prevalence of chronic diseases affect life expectancy?
+Are there regional differences in life expectancy within countries?
+How does the quality of living conditions affect life expectancy?
+How does access to clean water and sanitation affect life expectancy?
+What is the impact of infectious diseases on life expectancy?
+How does the quality of public health policies affect life expectancy?
+Are there differences in life expectancy based on race and ethnicity?
+How does the prevalence of mental health disorders affect life expectancy?
+What are the trends in life expectancy for different age groups?
 
 
 
