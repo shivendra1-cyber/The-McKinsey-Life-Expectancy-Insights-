@@ -37,3 +37,6 @@ https://docs.google.com/spreadsheets/d/18wynlGFXT5-6GAjIK_W1_QWYLcWdWrwX8J0zRueX
 >- Are there differences in life expectancy based on race and ethnicity?
 >- How does the prevalence of mental health disorders affect life expectancy?
 >- What are the trends in life expectancy for different age groups?
+>- Data visualisation tab
+>- <img width="689" alt="image" src="https://github.com/shivendra1-cyber/The-McKinsey-Life-Expectancy-Insights-/assets/68283342/0dec8a6d-d16c-42cd-9444-0ac08e8db86e">
+
